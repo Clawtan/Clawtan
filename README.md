@@ -71,6 +71,43 @@ Current Focus:
 
 ---
 
+## 🕒 Quantitative Trading Sessions (ICT Killzones)
+
+> Execution framework & liquidity delivery cycles for Gold (XAUUSD):
+
+<table>
+  <thead>
+    <tr align="left">
+      <th>Killzone Session</th>
+      <th>WIB Window (UTC+7)</th>
+      <th>New York (EDT/EST)</th>
+      <th>Delivery Mechanics & Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🌏 <b>Asian Killzone</b></td>
+      <td><code>07:00 – 11:00 WIB</code></td>
+      <td><code>20:00 – 00:00 EDT</code></td>
+      <td>Asian Range Accumulation & Initial Liquidity Sweep</td>
+    </tr>
+    <tr>
+      <td>🇬🇧 <b>London Killzone</b></td>
+      <td><code>13:00 – 16:00 WIB</code></td>
+      <td><code>02:00 – 05:00 EDT</code></td>
+      <td>Judas Swing Manipulation & True Day Trend Run</td>
+    </tr>
+    <tr>
+      <td>🇺🇸 <b>New York AM Killzone</b></td>
+      <td><code>18:00 – 21:00 WIB</code></td>
+      <td><code>07:00 – 10:00 EDT</code></td>
+      <td>Primary Sweet-Spot Scalping (M1/M3 CISD Delivery)</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 🖥️ Workstation Rig & Environment
 
 ```ini
@@ -93,6 +130,14 @@ Storage     = Proton Drive E2EE Sync + GitHub Private Version Control
 ## 📊 GitHub Metrics & Activity
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img alt="Clawtan's 3D Contribution City" src="profile-3d-contrib/profile-night-view.svg" width="100%" />
+</picture>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clawtan/Clawtan/output/github-snake-dark.svg">
