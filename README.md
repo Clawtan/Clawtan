@@ -16,7 +16,7 @@
 
 - 🖥️ **Systems & Quant Engineer**: Designing institutional algorithmic trading engines, low-latency Windows utilities, and automation pipelines.
 - 📈 **Full-Time XAUUSD Trader**: Specialized in Michael J. Huddleston's **Inner Circle Trader (ICT)** principles, **Daye 90-Minute Quarterly Theory (AMDX)**, and **Change In State of Delivery (CISD)** execution mechanics (Active since Oct 2016).
-- 🎓 **Alumni**: D3 Information Systems, Telkom University.
+- 🎓 **Education**: D3 Information Systems, Telkom University.
 - ⚙️ **Power User**: Ultra-clean Windows 11 gamer-safe debloat, AdGuard Home (Quad9 DoH), and local-first Obsidian Second Brain knowledge architecture.
 
 ---
@@ -116,4 +116,4 @@ Storage   = Proton Drive E2EE Sync + GitHub Private Version Control
 
 - **GitHub**: [@Clawtan](https://github.com/Clawtan)
 - **Email**: `azzariaalfin@gmail.com`
-- **Location**: Ponorogo, East Java, Indonesia
+- **Location**: East Java, Indonesia
