@@ -92,16 +92,22 @@ Current Focus:
       <td>Asian Range Accumulation & Initial Liquidity Sweep</td>
     </tr>
     <tr>
-      <td>🇬🇧 <b>London Killzone</b></td>
+      <td>🏛️ <b>London Killzone</b></td>
       <td><code>13:00 – 16:00 WIB</code></td>
       <td><code>02:00 – 05:00 EDT</code></td>
       <td>Judas Swing Manipulation & True Day Trend Run</td>
     </tr>
     <tr>
-      <td>🇺🇸 <b>New York AM Killzone</b></td>
+      <td>🗽 <b>NY AM Killzone</b></td>
       <td><code>18:00 – 21:00 WIB</code></td>
       <td><code>07:00 – 10:00 EDT</code></td>
-      <td>Primary Sweet-Spot Scalping (M1/M3 CISD Delivery)</td>
+      <td>Primary Sweet-Spot Scalping</td>
+    </tr>
+    <tr>
+      <td>🌆 <b>NY PM Killzone</b></td>
+      <td><code>00:30 – 03:00 WIB</code></td>
+      <td><code>13:30 – 16:00 EDT</code></td>
+      <td>Late Sweet-Spot Session Expansion & Daily Settlement Run</td>
     </tr>
   </tbody>
 </table>
