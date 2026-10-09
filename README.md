@@ -2,7 +2,9 @@
 
 # 👋 Hi there! I'm Clawtan
 
-**Quantitative Systems Engineer • Algorithmic Trader • Low-Latency Builder**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=45&lines=Quantitative+Systems+Engineer;Full-Time+XAUUSD+Algorithmic+Trader;Low-Latency+C%23+%26+Windows+Automation;Institutional+ICT+Execution+Mechanics" alt="Typing SVG" />
+</a>
 
 </div>
 
