@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there! I'm Azzaria Alfin (Clawtan)
+# 👋 Hi there! I'm Clawtan
 
 **Quantitative Systems Engineer • Algorithmic Trader • Low-Latency Builder**
 
