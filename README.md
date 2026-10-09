@@ -140,14 +140,6 @@ Storage     = Proton Drive E2EE Sync + GitHub Private Version Control
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-  <img alt="Clawtan's 3D Contribution City" src="profile-3d-contrib/profile-night-view.svg" width="100%" />
-</picture>
-
-<br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clawtan/Clawtan/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clawtan/Clawtan/output/github-snake.svg">
   <img alt="Clawtan's Contribution Snake" src="https://raw.githubusercontent.com/Clawtan/Clawtan/output/github-snake.svg" />
