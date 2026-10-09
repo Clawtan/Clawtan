@@ -95,7 +95,13 @@ Storage   = Proton Drive E2EE Sync + GitHub Private Version Control
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Metrics & Activity
+
+<div align="center">
+  <img src="infinity-contributions.png" alt="Infinity Contributions" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Clawtan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Clawtan GitHub Stats" />
