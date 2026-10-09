@@ -94,15 +94,11 @@ Storage     = Proton Drive E2EE Sync + GitHub Private Version Control
 
 <div align="center">
 
-<h4>∞ contributions in the last year</h4>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="contributions.gif" alt="Contributions" width="722px" height="112px" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clawtan/Clawtan/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clawtan/Clawtan/output/github-snake.svg">
+  <img alt="Clawtan's Contribution Snake" src="https://raw.githubusercontent.com/Clawtan/Clawtan/output/github-snake.svg" />
+</picture>
 
 </div>
 
