@@ -4,10 +4,6 @@
 
 **Quantitative Systems Engineer • Algorithmic Trader • Low-Latency Builder**
 
-[![visitors](https://vbr.nathanchung.dev/badge?page_id=Clawtan.Clawtan&color=00cf00)](https://github.com/Clawtan)
-&nbsp;
-![Last Updated](https://img.shields.io/badge/Updated-2026--10--09-blue.svg?style=flat&color=3388ff)
-
 </div>
 
 ---
@@ -15,9 +11,8 @@
 ## 📖 About Me
 
 - 🖥️ **Systems & Quant Engineer**: Designing institutional algorithmic trading engines, low-latency Windows utilities, and automation pipelines.
-- 📈 **Full-Time XAUUSD Trader**: Specialized in Michael J. Huddleston's **Inner Circle Trader (ICT)** principles, **Daye 90-Minute Quarterly Theory (AMDX)**, and **Change In State of Delivery (CISD)** execution mechanics (Active since Oct 2016).
-- 🎓 **Education**: D3 Information Systems, Telkom University.
-- ⚙️ **Power User**: Ultra-clean Windows 11 gamer-safe debloat, AdGuard Home (Quad9 DoH), and local-first Obsidian Second Brain knowledge architecture.
+- 📈 **Full-Time XAUUSD Trader**: Specialized in Michael J. Huddleston's **Inner Circle Trader (ICT)** principles execution mechanics (Active since Oct 2016).
+- 🎓 **Education**: Information Systems, Telkom University.
 
 ---
 
@@ -25,9 +20,9 @@
 
 ```yaml
 Current Focus:
-  - Trading: Executing M3 sweet-spot scalping on Gold (XAUUSD) during London & NY AM Killzones
+  - Trading: Executing sweet-spot scalping on Gold (XAUUSD) during Asian, London & NY AM/PM Killzones
   - Algo Engineering: Refining ICT Quartal Strategy v2.6.0 (Unified HUD & trailing BEP+)
-  - MT5 Execution: Automated 1% balance risk calculator & CISD body-level trailing stop EA
+  - MT5 Execution: Automated 1% balance risk calculator & level trailing stop EA
   - Systems: Maintaining TabletBridge (C# UHID virtualization) & Vault Guardian (O(1) graph auditor)
 ```
 
@@ -68,7 +63,7 @@ Current Focus:
 
 ## 🏛️ Featured Repositories
 
-- 📈 [**ict-quartal-engine**](https://github.com/Clawtan/ict-quartal-engine) — Modular TradingView suite for Daye 90-minute Quarterly Theory & CISD execution.
+- 📈 [**ict-quartal-engine**](https://github.com/Clawtan/ict-quartal-engine) — Modular TradingView suite for Quarterly Theory & execution.
 - ⚡ [**mql5-trade-manager**](https://github.com/Clawtan/mql5-trade-manager) — MetaTrader 5 execution engine with dynamic 1% risk-lot calculation & Q3 cycle filter.
 - 📱 [**tablet-bridge**](https://github.com/Clawtan/tablet-bridge) — Native C# Windows System Tray utility converting Android touch & stylus into UHID tablet input.
 - 🛡️ [**win11-debloat-suite**](https://github.com/Clawtan/win11-debloat-suite) — Surgical Windows 11 debloater and 5-tier maintenance suite for competitive gaming rigs.
@@ -99,7 +94,7 @@ Storage   = Proton Drive E2EE Sync + GitHub Private Version Control
 
 #### ∞ contributions in the last year
 
-| <img src="contributions.gif" alt="Contributions" width="722px" height="112px" /> |
+| <img src="contributions.gif" alt="Contributions" width="722px" height="112px" align="center"/> |
 | --------------
 
 <br/>
