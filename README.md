@@ -92,10 +92,19 @@ Storage   = Proton Drive E2EE Sync + GitHub Private Version Control
 
 ## 📊 GitHub Metrics & Activity
 
-#### ∞ contributions in the last year
+<div align="center">
 
-| <img src="contributions.gif" alt="Contributions" width="722px" height="112px" align="center"/> |
-| --------------
+<h4>∞ contributions in the last year</h4>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="contributions.gif" alt="Contributions" width="722px" height="112px" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
