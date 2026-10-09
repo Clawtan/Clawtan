@@ -75,17 +75,17 @@ Current Focus:
 
 ```ini
 [Primary Hardware Rig]
-CPU       = AMD Ryzen 7 9800X3D (8C/16T, 104MB Cache)
-GPU       = iGame GeForce RTX 5080 Ultra OC 16GB
+CPU         = AMD Ryzen 7 9800X3D (8C/16T, 104MB Cache)
+GPU         = iGame GeForce RTX 5080 Ultra OC 16GB
 Motherboard = Asrock X870E Nova WiFi
-RAM       = Corsair 64GB DDR5 6000MT/s CL30
-Storage   = Samsung 990 PRO 2TB PCIe 4.0 NVMe
-Chassis   = HYTE Y70 Touch Infinite (Integrated 4K Display)
+RAM         = Corsair 64GB DDR5 6000MT/s CL30
+Storage     = Samsung 990 PRO 2TB PCIe 4.0 NVMe
+Chassis     = HYTE Y70 Touch Infinite (Integrated 4K Display)
 
 [Operating System & Network]
-OS        = Windows 11 Pro 24H2 (Surgically Debloated)
-DNS       = AdGuard Home (DoH Quad9 HaGeZi Multi PRO)
-Storage   = Proton Drive E2EE Sync + GitHub Private Version Control
+OS          = Windows 11 Pro 24H2 (Surgically Debloated)
+DNS         = AdGuard Home (DoH Quad9 HaGeZi Multi PRO)
+Storage     = Proton Drive E2EE Sync + GitHub Private Version Control
 ```
 
 ---
