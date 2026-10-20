@@ -128,7 +128,7 @@ Storage     = Samsung 990 PRO 2TB PCIe 4.0 NVMe
 Chassis     = HYTE Y70 Touch Infinite (Integrated 4K Display)
 
 [Operating System & Network]
-OS          = Windows 11 Pro 24H2 (Surgically Debloated)
+OS          = Windows 11 Pro 26H2 (Surgically Debloated)
 DNS         = AdGuard Home (DoH Quad9 HaGeZi Multi PRO)
 Storage     = Proton Drive E2EE Sync + GitHub Private Version Control
 ```
