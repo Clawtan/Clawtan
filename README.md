@@ -113,9 +113,3 @@ Storage     = Proton Drive E2EE Sync + GitHub Private Version Control
 </div>
 
 ---
-
-## 📫 Connect & Reach Out
-
-- **GitHub**: [@Clawtan](https://github.com/Clawtan)
-- **Email**: `azzariaalfin@gmail.com`
-- **Location**: East Java, Indonesia
